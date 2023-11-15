@@ -1,0 +1,8 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+node_modules/=src/Replica/node_modules/
+@openzeppelin=src/Replica/node_modules/@openzeppelin
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+@summa-tx=src/Replica/node_modules/@summa-tx
+packages/=src/Replica/packages/
+@nomad-xyz/=src/Replica/packages/
